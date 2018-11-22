@@ -9,9 +9,9 @@ Bring your laptop to learn about AI technologies, their functions and use cases.
 The workshop is for developers with basic programming skills who are curious about how to build AI into their own applications.
 
 ## Outline
-1. [Getting Started](getting-started)
-1. [Node-RED introduction](node-red-introduction)
-1. [Natural Language Processing and Chatbots](natural-language-processing-and-chatbots)
+1. [Getting Started](#getting-started)
+1. [Node-RED introduction](#node-red-introduction)
+1. [Natural Language Processing and Chatbots](#natural-language-processing-and-chatbots)
 
 # Getting Started
 
@@ -45,4 +45,4 @@ Or sit back while we talk you through it all!
 
 # Natural Language Processing and Chatbots
 
-# ??
+# Visual Recognition?
