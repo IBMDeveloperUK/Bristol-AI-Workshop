@@ -46,19 +46,15 @@ Or sit back while we talk you through it all!
 
 # Natural Language Processing and Chatbots
 
-This part of the workshop has 3 parts:
-
 - [Trying out an AI API using Node-RED](https://github.com/IBMCodeLondon/AI_APIs_Workshops/blob/master/AI_APIs_101/README.md)
 - [Create a chatbot with Watson Assistant](https://github.com/IBMCodeLondon/chatbot-workshop/blob/master/training.md)
 - Add your chatbot to your Node-RED application
 
 # Visual Recognition
 
-This part of the workshop has 2 parts:
-
 - [Create a simple app calling an Image recognition service](https://github.com/arlemi/AI_APIs_Workshops/blob/master/AI_APIs_VR/lab1.md)
 - [Create your own classifier on top of an Image Recognition service](https://github.com/arlemi/AI_APIs_Workshops/blob/master/AI_APIs_VR/lab2.md)
 
 # Learn more
 
-To learn more you can find a lot of resources on [developer.ibm.com](), especially have a look at these [code patterns on AI](). 
+To learn more you can find a lot of resources on [developer.ibm.com](https://developer.ibm.com/), especially have a look at these [AI Code Patterns](https://developer.ibm.com/patterns/category/artificial-intelligence/). 
