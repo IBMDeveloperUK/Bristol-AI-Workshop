@@ -18,7 +18,7 @@ The workshop is for developers with basic programming skills who are curious abo
 
 ## IBM Cloud
 
-The first step is to sign up for an [IBM Cloud account](https://console.bluemix.net).
+The first step is to sign up for an [IBM Cloud account](https://ibm.biz/BdYCvC).
 
 ## Node-RED
 
