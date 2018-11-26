@@ -12,7 +12,7 @@ The workshop is for developers with basic programming skills who are curious abo
 1. [Getting Started](#getting-started)
 1. [Node-RED introduction](#node-red-introduction)
 1. [Natural Language Processing and Chatbots](#natural-language-processing-and-chatbots)
-1. [Visual Recognition](#visual-recognition)
+1. [Watson and Node-RED](#Watson-and-Node-RED)
 
 # Getting Started
 
@@ -50,11 +50,13 @@ Or sit back while we talk you through it all!
 - [Create a chatbot with Watson Assistant](https://github.com/IBMCodeLondon/chatbot-workshop/blob/master/training.md)
 - Add your chatbot to your Node-RED application
 
-# Visual Recognition
+# Watson and Node-RED
 
-- [Create a simple app calling an Image recognition service](https://github.com/arlemi/AI_APIs_Workshops/blob/master/AI_APIs_VR/lab1.md)
-- [Create your own classifier on top of an Image Recognition service](https://github.com/arlemi/AI_APIs_Workshops/blob/master/AI_APIs_VR/lab2.md)
+In this last part of the workshop there is time to try out some more Watson services through Node-RED. Choose any of [the tutorials](https://github.com/watson-developer-cloud/node-red-labs):
+
+- [Basic examples](https://github.com/watson-developer-cloud/node-red-labs/blob/master/basic_examples/README.md)
+- [Advanced labs](https://github.com/watson-developer-cloud/node-red-labs/blob/master/advanced_examples/README.md)
 
 # Learn more
 
-To learn more you can find a lot of resources on [developer.ibm.com](https://developer.ibm.com/), especially have a look at these [AI Code Patterns](https://developer.ibm.com/patterns/category/artificial-intelligence/). 
+To learn more you can find lots of resources on [developer.ibm.com](https://developer.ibm.com/), especially have a look at these [AI Code Patterns](https://developer.ibm.com/patterns/category/artificial-intelligence/). 
