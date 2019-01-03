@@ -36,7 +36,7 @@ Next create a Node-RED instance.
 
 # Node-RED Introduction
 
-If you are new to Node-RED this [tutorial](https://github.com/IBMCodeLondon/Node-RED-Watson-101/blob/master/README.md) will show you all need to know to get started. You will learn:
+If you are new to Node-RED this [tutorial](https://github.com/IBMDeveloperUK/Node-RED-Watson-101/blob/master/README.md) will show you all need to know to get started. You will learn:
 
 - The basic application of flow-based programming
 - How to create a simple web server and pass messages between client and server
@@ -46,8 +46,8 @@ Or sit back while we talk you through it all!
 
 # Natural Language Processing and Chatbots
 
-- [Trying out an AI API using Node-RED](https://github.com/IBMCodeLondon/AI_APIs_Workshops/blob/master/AI_APIs_101/README.md)
-- [Create a chatbot with Watson Assistant](https://github.com/IBMCodeLondon/chatbot-workshop/blob/master/training.md)
+- [Trying out an AI API using Node-RED](https://github.com/IBMDeveloperUK/AI_APIs_Workshops/blob/master/AI_APIs_101/README.md)
+- [Create a chatbot with Watson Assistant](https://github.com/IBMDeveloperUK/chatbot-workshop/blob/master/training.md)
 - Add your chatbot to your Node-RED application
 
 # Watson and Node-RED
